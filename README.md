@@ -1,47 +1,53 @@
-# 👋 Hi, I’m @Richy701
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFA657&background=0D111700&width=600&lines=Full+Stack+Developer;Building+tools+that+ship+fast;React+%7C+TypeScript+%7C+Supabase)](https://git.io/typing-svg)
 
-🎧 I'm the creator of **WavTrack – Productivity for Music Producers**, an AI-powered web app designed to help artists stay focused, hit creative goals, and track their beat-making workflow like a pro.
+## Hey, I'm Richy 👋
 
----
+I build web apps, internal tools, and side projects — usually with React, TypeScript, Tailwind, and Supabase. I like shipping fast, refining obsessively, and solving problems that sit at the intersection of design and utility.
 
-### 👀 I’m interested in...
-- Building tools that bridge creativity and productivity
-- AI-assisted music production workflows
-- UI/UX design with clean, modern aesthetics
-- Empowering music creators to stay consistent and inspired
+### What I'm working on
 
----
+🔸 **Trading Journal App** — Dashboard for tracking trades, P&L, equity curves, and broker CSV imports. Chart-heavy UI with dark/light themes and glass-morphism design.
 
-### 🌱 I’m currently learning...
-- React Native for mobile deployment of WavTrack
-- Advanced Supabase features (Row Level Security, Realtime, Edge Functions)
-- AI integration for personalized coaching & goal setting
-- Scalable deployment strategies using Vercel & Render
+🔸 **LinkedIn Banner Generator** — Tool for sales teams to create on-brand LinkedIn banners with dynamic layouts, logo positioning, and image backgrounds via Unsplash/Pexels.
+
+🔸 **[WavTrack](https://wavtrack.io)** — Productivity app for music producers to track sessions, set goals, and stay consistent.
+
+🔸 **Regal Est** — Streetwear brand landing page with 3D spinning logo, grunge textures, and color-cycling animations.
 
 ---
 
-### 💞️ I’m looking to collaborate on...
-- Music tech projects (apps, tools, plug-ins, or anything that helps artists level up)
-- Frontend UI/UX design in React & Tailwind
-- Experimental AI features for creative workflows
-- Cross-platform audio tools for independent producers
+### Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,supabase,vercel,nodejs,vite,git&theme=dark)](https://skillicons.dev)
 
 ---
 
-### 📫 How to reach me...
-DM me on GitHub 
+### Stats
+
+<div align="center">
+
+![Richy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richy701&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffa657&icon_color=ffa657&text_color=c9d1d9&ring_color=ffa657)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Richy701&hide_border=true&background=0d1117&ring=ffa657&fire=ffa657&currStreakNum=ffa657&currStreakLabel=ffa657&sideNums=c9d1d9&sideLabels=c9d1d9&dates=6e7681)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richy701&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffa657&text_color=c9d1d9)
+
+</div>
 
 ---
 
-### 😄 Pronouns: He/Him
+### Activity
+
+[![Richy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Richy701&bg_color=0d1117&color=ffa657&line=ffa657&point=c9d1d9&area=true&area_color=ffa657&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### ⚡ Fun fact:
-I designed WavTrack to keep myself accountable in the studio — now it's evolving into a productivity suite for producers who want to move like CEOs. Let’s make magic happen.
+### Get in touch
+
+DM me here on GitHub.ph?username=Richy701&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-<!---
-Richy701/Richy701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Get in touch
+
+DM me here on GitHub.
