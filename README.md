@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF4757&background=FFFFFF00&center=true&vCenter=true&width=500&lines=I+build+things+that+work.;React+%7C+TypeScript+%7C+Swift;Claude+Code+%2B+Cursor+IDE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C9D1D9&background=FFFFFF00&center=true&vCenter=true&width=500&lines=I+build+things+that+work.;React+%7C+TypeScript+%7C+Swift;Claude+Code+%2B+Cursor+IDE)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,7 +9,7 @@
 Full-stack builder. Trading tools, iOS apps, internal business tooling, streetwear. Most of my work ships on **React / TypeScript / Tailwind** with **Firebase** backends on **Vercel**. iOS work is **SwiftUI + SwiftData**. I dev in **Claude Code** inside **Cursor**.
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22" /></a>&nbsp;
-<a href="https://www.freetradejournal.com"><img src="https://img.shields.io/badge/Free_Trade_Journal-FF4757?style=flat-square&logoColor=white" height="22" /></a>&nbsp;
+<a href="https://www.freetradejournal.com"><img src="https://img.shields.io/badge/Free_Trade_Journal-C9D1D9?style=flat-square&logoColor=000" height="22" /></a>&nbsp;
 <a href="https://regalest.com"><img src="https://img.shields.io/badge/Regal_Est.-%23000?style=flat-square&logoColor=white" height="22" /></a>
 
 ---
@@ -59,17 +59,10 @@ Full-stack builder. Trading tools, iOS apps, internal business tooling, streetwe
 
 ---
 
-<!-- Snake contribution graph — needs GitHub Action (see snake.yml below) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richy701/Richy701/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Richy701/Richy701/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Richy701/Richy701/output/github-snake.svg" />
-</picture>
-
----
-
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Richy701&hide_border=true&background=00000000&ring=ff4757&fire=ff4757&currStreakNum=ff4757&currStreakLabel=ff4757&sideNums=c9d1d9&sideLabels=c9d1d9&dates=6e7681)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Richy701&bg_color=00000000&color=8b949e&line=c9d1d9&point=c9d1d9&area=true&area_color=21262d&hide_border=true&custom_title=Commit%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Richy701&hide_border=true&background=00000000&ring=c9d1d9&fire=c9d1d9&currStreakNum=c9d1d9&currStreakLabel=8b949e&sideNums=8b949e&sideLabels=6e7681&dates=6e7681)
 
 </div>
