@@ -61,7 +61,7 @@ Full-stack builder. Trading tools, iOS apps, internal business tooling, streetwe
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/8b949e/Richy701" alt="Richy701's Contribution Graph" width="100%" />
+<img src="https://ghchart.rshah.org/Richy701" alt="Richy701's Contribution Graph" width="100%" />
 
 <br><br>
 
