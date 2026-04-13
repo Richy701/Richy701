@@ -61,7 +61,9 @@ Full-stack builder. Trading tools, iOS apps, internal business tooling, streetwe
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Richy701&bg_color=00000000&color=8b949e&line=c9d1d9&point=c9d1d9&area=true&area_color=21262d&hide_border=true&custom_title=Commit%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://ghchart.rshah.org/8b949e/Richy701" alt="Richy701's Contribution Graph" width="100%" />
+
+<br><br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Richy701&hide_border=true&background=00000000&ring=c9d1d9&fire=c9d1d9&currStreakNum=c9d1d9&currStreakLabel=8b949e&sideNums=8b949e&sideLabels=6e7681&dates=6e7681)
 
